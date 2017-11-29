@@ -14,7 +14,7 @@ public class Q1 {
         int[] nums = {3 , 2, 7, 11, 15};
         //
         Q1 q1 = new Q1();
-        System.out.println(Arrays.toString(q1.twoSum(nums, target)));
+        System.out.println(Arrays.toString(q1.twoSum(nums, 5)));
     }
 
     public int[] twoSum(int[] nums, int target) {
